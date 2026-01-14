@@ -1,13 +1,7 @@
 # Tic-Tac-Toe Multiplayer
 
-=============================================================================================================================================
-*********************************************************************************************************************************************
-🔗🔗🔗 **WATCH A QUICK DEMO HERE:** https://drive.google.com/file/d/1oo-bcCLDVRkTGdntFAO1yxIsyXgLaB6C/view?usp=drive_link
-*********************************************************************************************************************************************
-=============================================================================================================================================
-
-
-A server-authoritative multiplayer Tic-Tac-Toe game built with Node.js (WebSockets) and vanilla JavaScript.
+🎥 **Demo Video:**  
+👉 [Watch Here](https://drive.google.com/file/d/1oo-bcCLDVRkTGdntFAO1yxIsyXgLaB6C/view?usp=drive_link)
 
 A server-authoritative multiplayer Tic-Tac-Toe game built with Node.js (WebSockets) and vanilla JavaScript.
 
